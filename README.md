@@ -9,7 +9,7 @@ Taux de churn ≈ 26.5 %
 ## Visualisations
 
 ### 1. Churn selon le type de contrat
-![Churn par contrat](churn_par_contrat.png)  
+![Churn par contrat](churn_par_contrat_v2.png)  
 Les contrats mensuels ont un churn très élevé.
 
 ### 2. Distribution de la tenure selon churn
